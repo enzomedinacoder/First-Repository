@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Poppins:wght@300&family=Rubik+Dirt&display=swap');
+
+*{padding: 0;
+margin:0;}
+
+body{background-color: rgb(167, 219, 252);
+}
+header{     
+    background-color: aqua;
+
+}
+a{color: black;
+    border: 3px solid black;
+text-decoration: none;}
+ul{
+    font-size: 20px;
+    word-spacing: 1px;
+    
+
+}
+li{display: inline;
+    color: white;
+    }
+
+nav{font-style: normal;
+    position:relative;  
+    text-align: center; 
+    letter-spacing: 4px ; 
+}
+.imgpixelInicio{
+    text-align: center;
+
+}
+.imgpantallaInicio{
+    width: 30%;
+    padding: 0%;
+    margin: 1% 35% 1% 36%;
+    border: solid 11px;
+}
+.h1Inicio{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    padding: 1%;
+    margin: -9px 0px 0px 0px;
+    border: 12px solid aqua;    
+}
+.h1Inicio{
+
+}
+.p1Inicio{
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+    padding: 0%;
+    margin: 60px 397px 60px 494px;
+}
+footer{background-color:black 
+}
+.h1Servicios{font-size: 30px;
+             color: black;
+             border: 10px solid rgb(8, 8, 8);
+             font-style:italic; 
+             text-align: center;  
+}
+.p1Servicios{font-size: 25px;
+            text-align: center;
+
+}
+.h1Servicios{
+    
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Rubik Dirt', cursive
+}
+
+
+.p1Servicios{
+
+}
+.imgarticulo1Servicios{
+    padding: 0%;
+    margin: 10px 10px 10px 10px;
+
+}
+.imgarticulo2Servicios{
+    padding: 0%;
+    margin: 10px 10px 10px 10px;
+}
+.imgarticulo2Servicios{
+    width: 25%;
+    padding: 0%;
+    margin: 10px 10px 10px 10px;
+}
+.imgarticulo3Servicios{width: 25%;
+
+}
+.h1Historia{font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Rubik Dirt', cursive;
+    border: solid ;
+    text-align: center;
+        }
+.p1Historia{
+    padding: 0%;
+    margin: 5px 5px 5px 5px;
+    font-size: 25px;
+    text-align: left;
+
+}
+.franypiliHistoria{width: 30%;
+    padding: 0%;
+margin: 5px 300px 5px 700px;}

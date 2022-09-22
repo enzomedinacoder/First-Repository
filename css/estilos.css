@@ -45,7 +45,21 @@ nav{
     height: 20px;
 
 }
+
+
+.h1Servicios{
+    font-size: 40px;
+    border: 10px black solid;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Rubik Dirt', cursive;
+    color: blue;
+
+}
+
 .h1Inicio{
+
 text-align: center;
 font-size: large;
 font-family: 'Alumni Sans Pinstripe', sans-serif;
@@ -60,7 +74,7 @@ color: blue;
 img{
     border-radius: 10px;
 }
-.p1Inicio{
+.p1Inicio,.p1Servicios{
  font-size: 30px;
  font-weight: 600;
  

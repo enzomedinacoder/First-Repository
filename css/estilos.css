@@ -11,17 +11,15 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(19,55,250,1) 0%, rgba
 
  body{
     text-align: center;
-    background: rgb(2,0,36);
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(19,250,234,1) 0%, rgba(28,255,236,1) 24%, rgba(15,211,230,1) 49%, rgba(0,212,255,1) 80%, rgba(0,212,255,1) 81%);
+    background-color: lightskyblue;
     display: flex;
     flex-direction: column;  
     min-height: 100vh;
 }
 
 
-a{color: black;
-    border: 3px solid black;
+a{color:white;
+    border: 3px solid lightskyblue;
 text-decoration: none;}
 ul{
     font-size: 20px;

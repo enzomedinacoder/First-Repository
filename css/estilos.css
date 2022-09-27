@@ -47,7 +47,7 @@ nav{
 }
 
 
-.h1Inicio,.h1Servicios,.h1Historia{
+.h1Inicio,.h1Servicios,.h1Historia,.h1Opiniones{
     font-size: 40px;
     border: 10px black solid;
     font-family: 'Alumni Sans Pinstripe', sans-serif;
@@ -55,6 +55,7 @@ nav{
     font-family: 'Roboto Mono', monospace;
     font-family: 'Rubik Dirt', cursive;
     color: blue;
+    
 
 }
 
@@ -68,6 +69,10 @@ img{
  font-weight: 600;
  border: 5px black solid;
  margin-top: 5px;
+ background-color:white;
+ font-family: 'Alumni Sans Pinstripe', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Mono', monospace;
 }
 
 .item1{

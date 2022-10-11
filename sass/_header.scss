@@ -1,0 +1,35 @@
+
+.logopixel{
+    width: 30px;
+    height: 20px;
+}
+
+      
+header {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgb(2, 0, 36) 0%, rgb(19, 55, 250) 0%, rgb(28, 128, 255) 10%, rgb(15, 44, 230) 36%, rgb(2, 125, 252) 56%, rgb(0, 95, 255) 80%, rgb(0, 108, 255) 93%);
+    justify-content: center;
+     }
+nav {
+        font-style: normal;
+        display: flex;
+        justify-content: center;
+        letter-spacing: 4px;
+        margin-top: 5px;
+        ul {font-size: 20px;
+            word-spacing: 1px;
+            li {  
+                display: inline;
+                color: white;
+                text-align: center;
+                a{
+                    color: white;
+                    border: 3px solid lightskyblue;
+                    text-decoration: none;
+                                    }           
+                 }   
+                     }
+    }
+
+
+     

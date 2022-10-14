@@ -91,17 +91,20 @@ h2{
             font-family: 'Poppins', sans-serif;
             border: 4px solid black;
              }
- img{border-radius: 10px; }
+ img{border-radius: 10px;
+ }
  
             
 
  @mixin size($width,$height) {
     height:$height;
     width:$width;
+ 
     }
 
 .opinion{ 
-@include size(760px,150px);
+@include size(750px,150px);
 margin: 10px;
 border: 5px blue solid;
+
 }

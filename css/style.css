@@ -135,7 +135,7 @@ img {
 
 .opinion {
   height: 150px;
-  width: 760px;
+  width: 750px;
   margin: 10px;
   border: 5px blue solid;
 }
@@ -158,5 +158,11 @@ footer {
 @media (max-width: 864px) {
   .containerservicios {
     grid-template-columns: 1fr;
+  }
+  .opinion {
+    height: 100px;
+    width: 500px;
+    margin: 10px;
+    border: 5px blue solid;
   }
 }/*# sourceMappingURL=style.css.map */

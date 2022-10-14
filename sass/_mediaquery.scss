@@ -2,15 +2,26 @@
 * {
     padding: 0;
     margin: 0;}
+
+    
     
 @media(max-width: 1293px){ 
     .containerservicios{
     grid-template-columns: 2fr 2fr;
-}    
- }
+}
+
+  }
 @media(max-width:864px){
 
 .containerservicios{
     grid-template-columns: 1fr;
-     }
-   }
+
+
+} 
+.opinion{ 
+    @include size(500px,100px);
+    margin: 10px;
+    border: 5px blue solid;
+    
+    }
+}

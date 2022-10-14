@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Poppins:wght@300&family=Roboto+Mono:wght@300&family=Rubik+Dirt&display=swap");
-.logopixel {
-  width: 30px;
-  height: 20px;
+.logoPixel {
+  width: 25%;
 }
 
 header {

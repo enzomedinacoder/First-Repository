@@ -94,13 +94,9 @@ h2{
  img{border-radius: 10px;
  }
  .franypiliHistoria{
-    display: flex;
-    flex-direction: column;
-    align-content: center;
+ 
  }
- main{ display: grid;
-}
-            
+
 
  @mixin size($width,$height) {
     height:$height;

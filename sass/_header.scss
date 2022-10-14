@@ -18,8 +18,8 @@ nav {
         margin-top: 5px;
         ul {font-size: 20px;
             word-spacing: 1px;
-            li {  
-                display: inline;
+            li {display: inline;
+                flex-direction: column;
                 color: white;
                 text-align: center;
                 a{
